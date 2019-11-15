@@ -14,8 +14,4 @@ $ git-delete-branches --help
 
 # Build
 Requires Go 1.12.9 or higher.
-Requires cli library installed
 
-```
-go get github.com/urfave/cli
-```
