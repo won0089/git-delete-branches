@@ -1,4 +1,4 @@
-module github.com/urfave/cli/v2
+module github.com/won0089/git-delete-branches
 
 go 1.13
 
